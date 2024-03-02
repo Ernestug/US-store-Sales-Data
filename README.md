@@ -25,3 +25,5 @@ Some insights I was able to generate from this analysis are outlined below:
 - **Profit Trend:** There was a steady growth in profit from 2014 to 2017. However, the business recorded lossses in some specific months. The months of July 2014 and January 2015 brought in losses for the company.
 - **Customer with the highest number of sales:** "Sean Miller" was the customer who generated the highest sales for the company. Majority of his sales came in 2014 where he bought products worth over $23,0000.
 - **Top Performing States based on sales:** California and New York generated the highest sales from 2014 to 2017, amounting to over 33% of total sales for the company.
+
+![](https://github.com/Ernestug/US-store-Sales-Data/blob/main/US%20Sales%20Data%20Dashboard.png)
