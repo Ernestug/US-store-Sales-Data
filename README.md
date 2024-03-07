@@ -3,7 +3,7 @@
 
 ##  Data Cleaning
 
-The dataset used for this analysis was gathered from Kaggle. The data was sourced as a CSV file and was cleaned in Excel - ensuring there are no duplicates, no blank rows, using appropriate data types, and deleting unwanted columns. After cleaning and transformation was completed, the data was converted to a table called Sales Data, and different pivot tables were created.
+The dataset used for this analysis was gathered from [Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting). The data was sourced as a CSV file and was cleaned in Excel - ensuring there are no duplicates, no blank rows, using appropriate data types, and deleting unwanted columns. After cleaning and transformation was completed, the data was converted to a table called Sales Data, and different pivot tables were created.
 
 ## Creating Pivot Tables
 
