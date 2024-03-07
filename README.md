@@ -9,6 +9,8 @@ The dataset used for this analysis was gathered from [Kaggle](https://www.kaggle
 
 Pivot tables were created from the Sales Data table. Pivot tables for Customers, Orders, Products, and Location was created. In these Pivot tables, VLOOKUP function was used to return the value of respective data as new columns from the main Sales Data Table. These pivot tables were then converted to normal tables by copying and pasting as values. This is to allow relationships to be created effectively.
 
+![](https://github.com/Ernestug/US-store-Sales-Data/blob/main/Pivot%20tables.png)
+
 ## Creating Relationships
 
 Data modelling was also done after the pivot tables were created. Using Customer ID, Product ID, Order ID, and Postal code as the primary keys in the Customers, Products, Orders, and Location tables respectively; 4 new relationships were created by linking the primary keys from these tables with the foreign keys from the Sales Data table.
